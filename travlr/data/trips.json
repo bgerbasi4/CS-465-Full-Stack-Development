@@ -1,20 +1,35 @@
 [
   {
+    "code": "GALR210214",
     "name": "Gale Reef",
+    "length": "4 nights / 5 days",
+    "start": "2027-02-14T00:00:00.000Z",
+    "resort": "Gale Reef Resort",
+    "perPerson": "$1,199",
     "image": "reef1.jpg",
-    "description": "Gale Reef: Sed et augue lorem. In sit amet placerat arcu. Mauris volutpat ipsum ac justo mollis vel vestibulum orci gravida. Vestibulum sit amet porttitor odio. Nulla facilisi. Fusce at pretium felis.",
-    "description2": "Sed consequat libero ut turpis venenatis ut aliquam risus semper. Etiam convallis mi vel risus pretium sodales. Etiam nunc lorem ullamcorper vitae laoreet."
+    "description": "Gale Reef offers a relaxing tropical getaway with beautiful ocean views, sandy beaches, and exciting activities for travelers. Guests can enjoy swimming, snorkeling, and exploring the surrounding reef.",
+    "description2": "Visitors can experience comfortable accommodations, delicious dining options, and a peaceful atmosphere while enjoying their vacation."
   },
   {
+    "code": "DAWR210321",
     "name": "Dawson's Reef",
+    "length": "6 nights / 7 days",
+    "start": "2027-03-21T00:00:00.000Z",
+    "resort": "Dawson's Reef Resort",
+    "perPerson": "$1,499",
     "image": "reef2.jpg",
-    "description": "Dawson's Reef: Integer magna leo, posuere et dignissim vitae, porttitor at odio. Pellentesque a metus nec magna placerat volutpat. Nunc nisi mi, elementum sit amet aliquet quis, tristique quis nisl. Curabitur odio lacus, blandit ut hendrerit.",
-    "description2": "Vulputate, vulputate at est. Morbi aliquet viverra metus eu consectetur. In lorem dui, elementum sit amet convallis ac, tincidunt vel sapien."
+    "description": "Dawson's Reef provides an exciting vacation destination with clear blue waters, beautiful beaches, and plenty of outdoor adventures. Travelers can explore marine life and enjoy the natural beauty of the island.",
+    "description2": "The resort features comfortable rooms, recreational activities, and dining experiences designed to make every vacation enjoyable."
   },
   {
+    "code": "CLAR210418",
     "name": "Claire's Reef",
+    "length": "5 nights / 6 days",
+    "start": "2027-04-18T00:00:00.000Z",
+    "resort": "Claire's Reef Resort",
+    "perPerson": "$1,299",
     "image": "reef3.jpg",
-    "description": "Claire's Reef: Donec sed felis risus. Nulla facilisi. Donec a orci tellus, et auctor odio. Fusce ac orci nibh, quis semper arcu. Cras orci neque, euismod et accumsan ac, sagittis molestie lorem. Proin odio sapien, elementum at tempor non.",
-    "description2": "Vulputate eget libero. In hac habitasse platea dictumst. Integer purus justo, egestas eu consectetur eu, cursus in tortor. Quisque nunc ac mi ultrices iaculis."
+    "description": "Claire's Reef is a tropical destination offering beautiful coastal scenery, relaxing beaches, and opportunities to explore the ocean. Guests can enjoy snorkeling, sightseeing, and spending time outdoors.",
+    "description2": "Visitors can relax in comfortable accommodations while enjoying local dining, resort amenities, and memorable vacation experiences."
   }
 ]
